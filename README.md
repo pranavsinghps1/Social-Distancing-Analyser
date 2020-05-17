@@ -1,5 +1,5 @@
 # Social-Distancing-Analyser
-#Features:
+
 * Get realtime analytics:
    - Number of people in a particular area.
    - Number of people in high risk area.
